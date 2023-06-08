@@ -1,0 +1,3 @@
+Dataset in Linear Regression Project is Artificialy Generated. So, data like 'Email Add.' is fake. 
+I will upload some real world datasets with their code in future.
+Keep Learning
